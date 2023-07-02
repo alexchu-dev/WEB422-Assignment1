@@ -5,7 +5,7 @@
  *  (including web sites) or distributed to other students.
  *
  *  Name: Alex Chu    Student ID: 153954219    Date: 5/19/2023
- *  Cyclic Link:      https://alexchu-web422-a1.vercel.app/
+ *  Cyclic Link:      https://alexchu-web422-a1.cyclic.app/
  ********************************************************************************/
 // Express config
 const express = require("express")
